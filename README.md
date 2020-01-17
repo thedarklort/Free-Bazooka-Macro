@@ -2,4 +2,4 @@
 Completly free Diablo 3 Bazooka Macro
 https://discord.gg/UnnY5UY
 
-Current Version: Beta 1.2.7B
+Current Version: Beta 1.2.7c
